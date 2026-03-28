@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c32ee2a5e41896a",
+        "id": "c20005947c1546e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f435f8609bb39b58",
+            "id": "072e3cca5ebe3070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python库/math/数论.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数论"
             }
           }
         ]
@@ -74,106 +78,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.49999618530273
+    "width": 200
   },
   "right": {
     "id": "b9379623f97b2358",
     "type": "split",
-    "children": [
-      {
-        "id": "e90d3ded94b1425b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9ab19d09b1fa647",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "aa31d5640cc624ca",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
-            "id": "d98fae52d76667d8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "55c5dd9000c0f419",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "6feda46db9396df0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
-            "id": "d56fb387f667a8de",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 5
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +100,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fe478102ebb2795",
+  "active": "072e3cca5ebe3070",
   "lastOpenFiles": [
+    "markdown与latex/latex公式.md",
+    "markdown与latex/latex语法.md",
+    "markdown与latex/markdown基础.md",
+    "assets/Pasted image 20260328171727.png",
+    "Pasted image 20260328171657.png",
+    "markdown与latex/assets/image-20260328152116724.png",
     "未命名.base"
   ]
 }
