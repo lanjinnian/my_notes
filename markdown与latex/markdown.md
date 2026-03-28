@@ -62,6 +62,11 @@
 | 单元格 | 单元格 | 单元格 |
 ```
 
+## 提示框
+
+> [!WARNING] 
+> Highlights information that users should take into account, even when skimming.
+
 # 文本格式
 
 - 粗体: `**粗体内容**`
