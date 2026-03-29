@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "072e3cca5ebe3070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python库/math/数论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数论"
-            }
-          },
-          {
             "id": "0d22edc3c1834c12",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "浮点数运算"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fmod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +84,91 @@
   "right": {
     "id": "b9379623f97b2358",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "016964a5e9aaa9a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a95adb24ca0677f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python库/math/浮点数运算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "浮点数运算 的反向链接列表"
+            }
+          },
+          {
+            "id": "1a04063a2efe1dae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python库/math/浮点数运算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "浮点数运算 的出链列表"
+            }
+          },
+          {
+            "id": "1d15d49003ca7f20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8a70cc55908a2ae8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "71e7860363282f27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python库/math/浮点数运算.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "浮点数运算 的大纲"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -115,14 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d22edc3c1834c12",
+  "active": "33bcc0df89d7c838",
   "lastOpenFiles": [
-    "assets/Pasted image 20260328203631.png",
-    "python库/math/数论.md",
-    "python库/math/浮点数运算.md",
-    "markdown与latex/latex语法.md",
-    "markdown与latex/latex公式.md",
+    "assets/屏幕截图 2026-03-28 203628.png",
     "markdown与latex/markdown基础.md",
+    "assets/Pasted image 20260328203631.png",
+    "python库/math/浮点数运算.md",
+    "python库/math/数论.md",
+    "markdown与latex/latex公式.md",
+    "markdown与latex/latex语法.md",
     "assets/Pasted image 20260328171727.png",
     "Pasted image 20260328171657.png",
     "markdown与latex/assets/image-20260328152116724.png",
