@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "L2 贝尔曼公式 的大纲"
             }
+          },
+          {
+            "id": "ca1c755a97f42ec6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
