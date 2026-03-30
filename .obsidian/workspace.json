@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -95,8 +95,8 @@
               "type": "backlink",
               "state": {
                 "file": "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -186,6 +186,9 @@
   },
   "active": "c78b96126a75df3f",
   "lastOpenFiles": [
+    "assets/Pasted image 20260329215408.png",
+    "assets/Pasted image 20260329215123.png",
+    "assets/Pasted image 20260329214855.png",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
     "python库/math/数论.md",
     "python库/math/浮点数运算.md",
