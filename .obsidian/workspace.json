@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "markdown与latex/latex公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "latex公式"
+            }
+          },
+          {
+            "id": "f7bde0d13d1f2850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "L2 贝尔曼公式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,25 +210,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c78b96126a75df3f",
+  "active": "f7bde0d13d1f2850",
   "lastOpenFiles": [
-    "markdown与latex/markdown基础.md",
+    "assets/Pasted image 20260330200535.png",
+    "assets/Pasted image 20260330200327.png",
+    "assets/Pasted image 20260330200250.png",
+    "python库/math/浮点数运算.md",
     "markdown与latex/latex语法.md",
     "markdown与latex/latex公式.md",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+    "markdown与latex/markdown基础.md",
     "assets/Pasted image 20260330184607.png",
     "assets/Pasted image 20260329215408.png",
     "assets/Pasted image 20260329215123.png",
     "assets/Pasted image 20260329214855.png",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
     "python库/math/数论.md",
-    "python库/math/浮点数运算.md",
     "python库/math/未命名.md",
     "assets/屏幕截图 2026-03-28 203628.png",
     "assets/Pasted image 20260328203631.png",
     "assets/Pasted image 20260328171727.png",
     "Pasted image 20260328171657.png",
-    "markdown与latex/assets/image-20260328152116724.png",
     "未命名.base"
   ]
 }
