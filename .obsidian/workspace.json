@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python库/sympy/基础介绍.md",
+                "file": "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础介绍"
+              "title": "L2 贝尔曼公式"
             }
           }
         ],
@@ -190,8 +190,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,9 +211,13 @@
   },
   "active": "f7bde0d13d1f2850",
   "lastOpenFiles": [
+    "assets/Pasted image 20260403203316.png",
+    "assets/Pasted image 20260403203204.png",
+    "assets/Pasted image 20260403202741.png",
+    "assets/Pasted image 20260403202315.png",
+    "python库/sympy/基础介绍.md",
     "markdown与latex/markdown基础.md",
     "markdown与latex/latex公式.md",
-    "python库/sympy/基础介绍.md",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "python库/sympy",
     "assets/Pasted image 20260330201021.png",
@@ -226,12 +229,9 @@
     "assets/Pasted image 20260330184607.png",
     "assets/Pasted image 20260329215408.png",
     "assets/Pasted image 20260329215123.png",
-    "assets/Pasted image 20260329214855.png",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
     "python库/math/数论.md",
     "python库/math/未命名.md",
-    "assets/屏幕截图 2026-03-28 203628.png",
-    "assets/Pasted image 20260328203631.png",
     "未命名.base"
   ]
 }
