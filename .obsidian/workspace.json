@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+                "file": "python库/sympy/06 求解器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 贝尔曼公式"
+              "title": "06 求解器"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "f24021ba56c31016",
   "lastOpenFiles": [
+    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "python库/sympy/05 微积分.md",
     "python库/sympy/06 求解器.md",
@@ -208,7 +209,6 @@
     "markdown与latex/markdown基础.md",
     "markdown与latex/latex公式.md",
     "markdown与latex/latex语法.md",
-    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "assets/Pasted image 20260403211710.png",
     "assets/Pasted image 20260403211550.png",
     "assets/Pasted image 20260403203316.png",
