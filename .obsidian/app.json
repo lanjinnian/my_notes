@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "deleteUnlinkedAttachments": "always",
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "smartIndentList": false
 }
