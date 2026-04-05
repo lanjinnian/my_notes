@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +196,16 @@
   },
   "active": "f24021ba56c31016",
   "lastOpenFiles": [
-    "python库/sympy/06 求解器.md",
+    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+    "未命名 1.canvas",
+    "2026-04-05.md",
+    "未命名.base",
+    "未命名.canvas",
     "硬件/GPU/GPU基础工作原理.md",
+    "python库/sympy/06 求解器.md",
     "硬件/GPU",
     "未命名",
     "硬件",
-    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "python库/sympy/05 微积分.md",
     "python库/sympy/01 基础介绍.md",
@@ -227,7 +230,6 @@
     "python库/math/浮点数运算.md",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
     "python库/math/数论.md",
-    "python库/math/未命名.md",
-    "未命名.base"
+    "python库/math/未命名.md"
   ]
 }
