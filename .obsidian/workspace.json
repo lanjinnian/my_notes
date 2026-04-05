@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python库/sympy/05 微积分.md",
+                "file": "python/python库/sympy/07 矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 微积分"
+              "title": "07 矩阵"
             }
           }
         ]
@@ -195,12 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f24021ba56c31016",
+  "active": "4fe478102ebb2795",
   "lastOpenFiles": [
-    "python库/sympy/07 矩阵.md",
+    "python/python库/sympy/06 求解器.md",
+    "python/python库/sympy/05 微积分.md",
+    "python/python库/sympy/07 矩阵.md",
+    "C++",
+    "python/python基础",
+    "python",
     "补充数学知识",
-    "python库/sympy/06 求解器.md",
-    "python库/sympy/05 微积分.md",
     "硬件/GPU/01 GPU基础.md",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "未命名 1.canvas",
@@ -210,10 +213,10 @@
     "硬件/GPU",
     "硬件",
     "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
-    "python库/sympy/01 基础介绍.md",
-    "python库/sympy/02 基本操作.md",
-    "python库/sympy/04 简化.md",
-    "python库/sympy/03 打印.md",
+    "python/python库/sympy/01 基础介绍.md",
+    "python/python库/sympy/02 基本操作.md",
+    "python/python库/sympy/04 简化.md",
+    "python/python库/sympy/03 打印.md",
     "markdown与latex/markdown基础.md",
     "markdown与latex/latex公式.md",
     "markdown与latex/latex语法.md",
@@ -223,14 +226,14 @@
     "assets/Pasted image 20260403203204.png",
     "assets/Pasted image 20260403202741.png",
     "assets/Pasted image 20260403202315.png",
-    "python库/sympy",
+    "python/python库/sympy",
     "assets/Pasted image 20260330201021.png",
     "assets/Pasted image 20260330200535.png",
     "assets/Pasted image 20260330200327.png",
     "assets/Pasted image 20260330200250.png",
-    "python库/math/浮点数运算.md",
+    "python/python库/math/浮点数运算.md",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
-    "python库/math/数论.md",
+    "python/python库/math/数论.md",
     "python库/math/未命名.md"
   ]
 }
