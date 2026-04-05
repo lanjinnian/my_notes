@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python库/sympy/07 矩阵.md",
+                "file": "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 矩阵"
+              "title": "L3 贝尔曼最优公式"
             }
           }
         ]
@@ -195,17 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fe478102ebb2795",
+  "active": "f24021ba56c31016",
   "lastOpenFiles": [
+    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+    "python/python库/sympy/07 矩阵.md",
     "python/python库/sympy/06 求解器.md",
     "python/python库/sympy/05 微积分.md",
-    "python/python库/sympy/07 矩阵.md",
     "C++",
     "python/python基础",
     "python",
     "补充数学知识",
     "硬件/GPU/01 GPU基础.md",
-    "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "未命名 1.canvas",
     "2026-04-05.md",
     "未命名.base",
