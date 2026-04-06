@@ -4,20 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b707ed0a5889a9",
+        "id": "36b796e9b3becb3d",
         "type": "tabs",
         "children": [
           {
-            "id": "7846fdf0eab19e49",
+            "id": "d3669e3ab612bbe3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python/python基础/01 基础语法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "01 基础语法"
+            }
+          },
+          {
+            "id": "b18f11dbba17d54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python基础/02 数据类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 数据类型"
+            }
+          },
+          {
+            "id": "98285b6dd207ce91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python基础/03 注释与运算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 注释与运算"
+            }
+          },
+          {
+            "id": "0c558acae6d4616a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python基础/04 数据类型使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 数据类型使用"
+            }
+          },
+          {
+            "id": "b512ccce4337d400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python基础/05 控制语句.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 控制语句"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,25 +252,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7846fdf0eab19e49",
+  "active": "b512ccce4337d400",
   "lastOpenFiles": [
+    "python/python基础/04 数据类型使用.md",
+    "python/python基础/05 控制语句.md",
+    "assets/Pasted image 20260406203236.png",
+    "python/python基础/03 注释与运算.md",
+    "python/python基础/02 数据类型.md",
+    "python/python基础/01 基础语法.md",
+    "python/python库/math/02 浮点数运算.md",
+    "python/python库/math/01 数论.md",
+    "python/python库/tensorflow",
+    "python/python库/sklearn",
+    "python/python库/scipy",
+    "python/pytorch",
+    "python/python库/math/未命名",
+    "python/python库/sympy/07 矩阵.md",
+    "python/python库/numpy/04 高级功能.md",
+    "python/python库/numpy/03 IO.md",
+    "python/python库/numpy/02 创建数组.md",
+    "python/python库/numpy/01 numpy基础.md",
+    "python/python库/matplotlib/03 其它工具.md",
+    "python/python库/matplotlib/02 细节调整.md",
+    "python/python库/matplotlib/01 pyplot.md",
+    "python/python库/numpy/05 内置函数.md",
+    "python/python库/opencv",
+    "python/python库/matplotlib/04 多种图表.md",
+    "python/python库/matplotlib",
     "数学内容/概率论",
     "数学内容/离散数学",
     "图形学",
-    "数学内容/代几/代几笔记.pdf",
-    "深度学习",
-    "专业课",
-    "数学内容/微积分",
     "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "数学内容/未命名.canvas",
-    "数学内容/代几",
-    "数学内容",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
-    "python/python库/sympy/07 矩阵.md",
     "python/python库/sympy/06 求解器.md",
     "python/python库/sympy/05 微积分.md",
-    "C++",
-    "python/python基础",
     "硬件/GPU/01 GPU基础.md",
     "未命名 1.canvas",
     "2026-04-05.md",
@@ -217,10 +294,6 @@
     "python/python库/sympy/01 基础介绍.md",
     "python/python库/sympy/02 基本操作.md",
     "python/python库/sympy/04 简化.md",
-    "python/python库/sympy/03 打印.md",
-    "markdown与latex/markdown基础.md",
-    "markdown与latex/latex公式.md",
-    "markdown与latex/latex语法.md",
     "assets/Pasted image 20260403211710.png",
     "assets/Pasted image 20260403211550.png",
     "assets/Pasted image 20260403203316.png",
@@ -229,11 +302,6 @@
     "assets/Pasted image 20260403202315.png",
     "assets/Pasted image 20260330201021.png",
     "assets/Pasted image 20260330200535.png",
-    "assets/Pasted image 20260330200327.png",
-    "assets/Pasted image 20260330200250.png",
-    "python/python库/math/浮点数运算.md",
-    "强化学习/强化学习的数学原理/L1 基本概念.md",
-    "python/python库/math/数论.md",
-    "python库/math/未命名.md"
+    "assets/Pasted image 20260330200327.png"
   ]
 }
