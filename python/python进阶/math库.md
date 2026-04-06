@@ -84,10 +84,6 @@ print("以2为底的对数:", math.log(8, 2)) # 输出: 3.0
 
 ### 4. 三角函数与角度转换 (Trigonometry)
 
-![Unit circle with radians and degrees，AI 生成](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSqdKOsGzKhK2ziNV9J1qu2TklB11A6y9xgIjo6zl_3_1T9yfIh-VGRSDPhSf6CUCZ5r1k5BNLe_s_BJB6oncZmtbx48dp4hWVzeLW_Zd7rfwIc8_o)
-
-Shutterstock
-
 **⚠️ 终极避坑警告**：`math` 模块中所有的三角函数（sin, cos, tan 等），它们接收的参数都是**弧度 (Radians)**，而不是我们日常说的角度 (Degrees)！
 
 - **角度与弧度互转**：

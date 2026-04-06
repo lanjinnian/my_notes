@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fe478102ebb2795",
+  "active": "898a75d0121f7db3",
   "lastOpenFiles": [
     "python/python进阶/JSON.md",
     "python/python进阶/math库.md",
