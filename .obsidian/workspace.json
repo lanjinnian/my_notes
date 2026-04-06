@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8386860614405cf",
+        "id": "f2b707ed0a5889a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f24021ba56c31016",
+            "id": "7846fdf0eab19e49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "L3 贝尔曼最优公式"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f24021ba56c31016",
+  "active": "7846fdf0eab19e49",
   "lastOpenFiles": [
+    "深度学习",
+    "专业课",
+    "数学内容/代几/基本记忆内容 (2).pdf",
+    "数学内容/微积分",
+    "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
+    "数学内容/未命名.canvas",
+    "数学内容/代几",
+    "数学内容",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "python/python库/sympy/07 矩阵.md",
     "python/python库/sympy/06 求解器.md",
@@ -210,9 +213,6 @@
     "2026-04-05.md",
     "未命名.base",
     "未命名.canvas",
-    "硬件/GPU",
-    "硬件",
-    "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "python/python库/sympy/01 基础介绍.md",
     "python/python库/sympy/02 基本操作.md",
     "python/python库/sympy/04 简化.md",
@@ -226,7 +226,6 @@
     "assets/Pasted image 20260403203204.png",
     "assets/Pasted image 20260403202741.png",
     "assets/Pasted image 20260403202315.png",
-    "python/python库/sympy",
     "assets/Pasted image 20260330201021.png",
     "assets/Pasted image 20260330200535.png",
     "assets/Pasted image 20260330200327.png",
