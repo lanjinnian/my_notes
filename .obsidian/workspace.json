@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
+                "file": "强化学习/强化学习的数学原理/L1 基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3 贝尔曼最优公式"
+              "title": "L1 基本概念"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "0614fdb151bcbd39",
   "lastOpenFiles": [
+    "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "强化学习/强化学习的数学原理/L1 基本概念.md",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
-    "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "硬件/GPU/01 GPU基础.md",
     "python/python进阶/math库.md",
     "python/python进阶/JSON.md",
