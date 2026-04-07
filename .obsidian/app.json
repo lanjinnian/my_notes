@@ -3,5 +3,6 @@
   "deleteUnlinkedAttachments": "always",
   "attachmentFolderPath": "assets",
   "smartIndentList": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

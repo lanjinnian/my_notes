@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/强化学习的数学原理/L1 基本概念.md",
+                "file": "基础语言/python/python基础/02 数据类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1 基本概念"
+              "title": "02 数据类型"
             }
           }
         ]
@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fc8c09c714252dc2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,45 +205,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0614fdb151bcbd39",
+  "active": "4fe478102ebb2795",
   "lastOpenFiles": [
+    "理论基础",
+    "基础语言/python/python基础/未命名.base",
+    "基础语言/python/python基础/02 数据类型.md",
+    "基础语言",
+    "基础语言/python/python进阶/math库.md",
     "强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
-    "强化学习/强化学习的数学原理/L1 基本概念.md",
     "强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+    "强化学习/强化学习的数学原理/L1 基本概念.md",
+    "基础语言/python/python基础/12 面向对象.md",
+    "基础语言/python/python基础/05 控制语句.md",
     "硬件/GPU/01 GPU基础.md",
-    "python/python进阶/math库.md",
-    "python/python进阶/JSON.md",
-    "python/python基础/12 面向对象.md",
-    "python/python进阶",
-    "python/python基础/11 异常处理.md",
-    "python/python基础/10 模块.md",
-    "python/python基础/09 类型注释.md",
-    "python/python基础/08 File.md",
-    "python/python基础/07 OS.md",
-    "python/python基础/06 函数.md",
-    "python/python基础/05 控制语句.md",
-    "python/python基础/04 数据类型使用.md",
-    "python/python基础/03 注释与运算.md",
-    "python/python基础/02 数据类型.md",
-    "python/python基础/01 基础语法.md",
+    "基础语言/python/python进阶/JSON.md",
+    "基础语言/python/python进阶",
+    "基础语言/python/python基础/11 异常处理.md",
+    "基础语言/python/python基础/10 模块.md",
+    "基础语言/python/python基础/09 类型注释.md",
+    "基础语言/python/python基础/08 File.md",
+    "基础语言/python/python基础/07 OS.md",
+    "基础语言/python/python基础/06 函数.md",
+    "基础语言/python/python基础/04 数据类型使用.md",
+    "基础语言/python/python基础/03 注释与运算.md",
+    "基础语言/python/python基础/01 基础语法.md",
     "python/python基础/07 资源管理.md",
     "assets/Pasted image 20260406203236.png",
     "python/python库/math/02 浮点数运算.md",
     "python/python库/math/01 数论.md",
-    "python/python库/tensorflow",
-    "python/python库/sklearn",
-    "python/python库/scipy",
-    "python/pytorch",
+    "基础语言/python/python库/tensorflow",
+    "基础语言/python/python库/sklearn",
+    "基础语言/python/python库/scipy",
+    "基础语言/python/pytorch",
     "python/python库/math/未命名",
-    "python/python库/sympy/07 矩阵.md",
-    "python/python库/numpy/04 高级功能.md",
-    "python/python库/numpy/03 IO.md",
-    "python/python库/numpy/02 创建数组.md",
-    "python/python库/numpy/01 numpy基础.md",
-    "python/python库/opencv",
-    "python/python库/matplotlib",
-    "数学内容/概率论",
-    "数学内容/离散数学",
+    "基础语言/python/python库/sympy/07 矩阵.md",
+    "基础语言/python/python库/numpy/04 高级功能.md",
+    "基础语言/python/python库/numpy/03 IO.md",
+    "基础语言/python/python库/numpy/02 创建数组.md",
+    "基础语言/python/python库/opencv",
+    "基础语言/python/python库/matplotlib",
     "数学内容/未命名.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
