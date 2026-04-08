@@ -2,9 +2,7 @@
 
 在使用 Pyplot 之前，通常需要导入相应的库。为了解决图表中文字体显示为方块（乱码）的问题，需要进行简单的配置。
 
-Python
-
-```
+```python
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -22,9 +20,7 @@ plt.rcParams['axes.unicode_minus'] = False
 
 ### 基础用法
 
-Python
-
-```
+```python
 x = np.array([1, 2, 3, 4])
 y = np.array([1, 4, 9, 16])
 
