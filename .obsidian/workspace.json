@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理论基础/强化学习/强化学习的数学原理/L5 蒙特卡罗方法.md",
+                "file": "基础语言/python/python基础/02 数据类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5 蒙特卡罗方法"
+              "title": "02 数据类型"
             }
           }
         ]
@@ -207,8 +207,19 @@
   },
   "active": "0f993e6270b5fa81",
   "lastOpenFiles": [
-    "理论基础/强化学习/强化学习的数学原理/L6 随机近似与随机梯度下降.md",
+    "基础语言/python/python库/numpy/03 IO.md",
+    "基础语言/python/python库/numpy/02 创建数组.md",
+    "基础语言/python/python库/numpy/04 高级功能.md",
+    "基础语言/python/python库/numpy/05 内置函数.md",
+    "基础语言/python/python库/numpy/01 numpy基础.md",
+    "基础语言/python/python库/sympy/02 基本操作.md",
+    "基础语言/python/python库/sympy/04 简化.md",
+    "基础语言/python/python库/sympy/05 微积分.md",
+    "基础语言/python/python库/sympy/03 打印.md",
+    "基础语言/python/python库/sympy/06 求解器.md",
+    "基础语言/python/python库/sympy/07 矩阵.md",
     "理论基础/强化学习/强化学习的数学原理/L5 蒙特卡罗方法.md",
+    "理论基础/强化学习/强化学习的数学原理/L6 随机近似与随机梯度下降.md",
     "理论基础/强化学习/强化学习的数学原理/L4 值迭代与策略迭代.md",
     "理论基础/强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "理论基础/强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
@@ -224,7 +235,6 @@
     "理论基础/数学内容/优化理论",
     "项目记录/实践类/rebuild_drone_agent",
     "测试.md",
-    "理论基础/数学内容/代几/代几笔记.md",
     "理论基础/数学内容/代几/代几笔记.pdf",
     "项目记录/实践类",
     "项目记录/复现类",
@@ -232,17 +242,7 @@
     "理论基础",
     "基础语言/python/python基础/未命名.base",
     "基础语言",
-    "基础语言/python/python进阶/math库.md",
-    "基础语言/python/python基础/12 面向对象.md",
-    "基础语言/python/python基础/05 控制语句.md",
-    "理论基础/硬件/GPU/01 GPU基础.md",
-    "基础语言/python/python进阶/JSON.md",
     "基础语言/python/python进阶",
-    "基础语言/python/python基础/11 异常处理.md",
-    "基础语言/python/python基础/10 模块.md",
-    "基础语言/python/python基础/09 类型注释.md",
-    "基础语言/python/python基础/08 File.md",
-    "基础语言/python/python基础/07 OS.md",
     "assets/Pasted image 20260406203236.png",
     "数学内容/未命名.canvas",
     "未命名 1.canvas",
