@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca1c755a97f42ec6",
+  "active": "4fe478102ebb2795",
   "lastOpenFiles": [
+    "项目记录",
     "未命名.base",
     "基础语言/python/python库/numpy/02 创建数组.md",
     "基础语言/python/python库/numpy/01 numpy基础.md",
