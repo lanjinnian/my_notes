@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础语言/python/python库/sympy/02 基本操作.md",
+                "file": "基础语言/python/python库/matplotlib/04 多种图表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 基本操作"
+              "title": "04 多种图表"
             }
           }
         ]
@@ -205,9 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a22522213b54991e",
+  "active": "4fe478102ebb2795",
   "lastOpenFiles": [
+    "基础语言/python/python库/pandas",
+    "基础语言/python/python库/matplotlib/03 其它工具.md",
     "基础语言/python/python库/matplotlib/01 pyplot.md",
+    "基础语言/python/python库/sympy/02 基本操作.md",
     "基础语言/python/python库/numpy/02 创建数组.md",
     "基础语言/python/python库/numpy/01 numpy基础.md",
     "基础语言/python/python库/numpy/06 随机数和索引返回.md",
@@ -217,7 +220,6 @@
     "基础语言/python/python库/numpy/03 IO.md",
     "基础语言/python/python进阶/日志.md",
     "基础语言/python/python基础/02 数据类型.md",
-    "基础语言/python/python库/sympy/02 基本操作.md",
     "基础语言/python/python库/sympy/04 简化.md",
     "基础语言/python/python库/sympy/05 微积分.md",
     "基础语言/python/python库/sympy/03 打印.md",
@@ -231,8 +233,6 @@
     "理论基础/强化学习/强化学习的数学原理/L9 策略梯度方法.md",
     "理论基础/强化学习/强化学习的数学原理/L8 值函数近似.md",
     "理论基础/强化学习/强化学习的数学原理/L7 时序差分方法.md",
-    "理论基础/强化学习/强化学习的数学原理/L10 Actor-Critic方法.md",
-    "理论基础/强化学习/强化学习的数学原理/L1 基本概念.md",
     "理论基础/数学内容/优化理论",
     "项目记录/实践类/rebuild_drone_agent",
     "理论基础/数学内容/代几/代几笔记.pdf",
