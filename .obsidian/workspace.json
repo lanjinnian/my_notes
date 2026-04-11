@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fe478102ebb2795",
+  "active": "ca1c755a97f42ec6",
   "lastOpenFiles": [
-    "基础语言/python/python库/numpy/01 numpy基础.md",
+    "未命名.base",
     "基础语言/python/python库/numpy/02 创建数组.md",
+    "基础语言/python/python库/numpy/01 numpy基础.md",
     "基础语言/python/python基础/12 面向对象.md",
     "基础语言/python/python库/sympy/01 基础介绍.md",
     "基础语言/python/python库/sympy/05 微积分.md",
@@ -234,11 +234,9 @@
     "基础语言/python/python库/numpy/04 高级功能.md",
     "基础语言/python/python库/numpy/03 IO.md",
     "基础语言/python/python进阶/日志.md",
-    "基础语言/python/python基础/02 数据类型.md",
     "理论基础/数学内容/优化理论",
     "理论基础/数学内容/代几/代几笔记.pdf",
     "理论基础",
-    "基础语言/python/python基础/未命名.base",
     "assets/Pasted image 20260406203236.png",
     "数学内容/未命名.canvas",
     "未命名 1.canvas",
