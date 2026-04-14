@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理论基础/强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
+                "file": "理论基础/强化学习/强化学习的数学原理/L7 时序差分方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 贝尔曼公式"
+              "title": "L7 时序差分方法"
             }
           }
         ]
@@ -207,6 +207,7 @@
   },
   "active": "ed782c0e5836cd5d",
   "lastOpenFiles": [
+    "理论基础/强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
     "理论基础/强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
     "理论基础/强化学习/强化学习的数学原理/L7 时序差分方法.md",
     "理论基础/强化学习/强化学习的数学原理/L5 蒙特卡罗方法.md",
@@ -236,7 +237,6 @@
     "基础语言/python/python库/pandas/01 核心数据结构.md",
     "基础语言/python/python库/pandas/02 数据文件的读取与写入.md",
     "基础语言/python/python库/pandas/03 数据查看与基本信息.md",
-    "基础语言/python/python库/pandas/05 数据选择与操作.md",
     "项目记录/实践类/rebuild_drone_agent",
     "项目记录/技巧与踩坑",
     "项目记录/实践类",
