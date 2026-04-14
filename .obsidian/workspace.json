@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理论基础/强化学习/强化学习的数学原理/L6 随机近似与随机梯度下降.md",
+                "file": "理论基础/强化学习/强化学习的数学原理/L2 贝尔曼公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6 随机近似与随机梯度下降"
+              "title": "L2 贝尔曼公式"
             }
           }
         ]
@@ -207,15 +207,16 @@
   },
   "active": "ed782c0e5836cd5d",
   "lastOpenFiles": [
+    "理论基础/强化学习/强化学习的数学原理/L3 贝尔曼最优公式.md",
+    "理论基础/强化学习/强化学习的数学原理/L7 时序差分方法.md",
+    "理论基础/强化学习/强化学习的数学原理/L5 蒙特卡罗方法.md",
+    "理论基础/强化学习/强化学习的数学原理/L6 随机近似与随机梯度下降.md",
     "基础语言/python/python库/numpy/03 IO.md",
     "基础语言/python/python库/numpy/02 创建数组.md",
     "基础语言/python/python库/numpy/04 高级功能.md",
     "基础语言/python/python库/numpy/05 内置函数.md",
     "基础语言/python/python库/numpy/06 随机数和索引返回.md",
-    "理论基础/强化学习/强化学习的数学原理/L6 随机近似与随机梯度下降.md",
-    "理论基础/强化学习/强化学习的数学原理/L5 蒙特卡罗方法.md",
     "理论基础/强化学习/强化学习的数学原理/L4 值迭代与策略迭代.md",
-    "理论基础/强化学习/强化学习的数学原理/L7 时序差分方法.md",
     "项目日志",
     "理论基础/强化学习/强化学习的数学原理/L8 值函数近似.md",
     "理论基础/强化学习/强化学习的数学原理/L9 策略梯度方法.md",
@@ -236,7 +237,6 @@
     "基础语言/python/python库/pandas/02 数据文件的读取与写入.md",
     "基础语言/python/python库/pandas/03 数据查看与基本信息.md",
     "基础语言/python/python库/pandas/05 数据选择与操作.md",
-    "基础语言/python/python库/pandas/04 数据清洗.md",
     "项目记录/实践类/rebuild_drone_agent",
     "项目记录/技巧与踩坑",
     "项目记录/实践类",
